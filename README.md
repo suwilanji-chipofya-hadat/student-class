@@ -1,2 +1,1 @@
-# student-class
-Machine learning model to cluster students based on their online habits and school performance 
+Develop a machine learning model designed to group students according to their online behavior and academic performance, aiding educators in gaining insights into distinct student profiles for more personalized support and educational strategies.
